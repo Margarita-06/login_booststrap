@@ -16,7 +16,7 @@ Durante el desarrollo de este aprendí a:
 ## 📁 Estructura del Proyecto
 
 LOGIN_BOOTSTRAP/
-│
+│```plaintext
 ├── CSS/
 │ └── estilos.css # Estilos personalizados (fondo degradado, tarjetas, etc.)
 │
@@ -32,7 +32,7 @@ LOGIN_BOOTSTRAP/
 ├── js/
 │ ├── aprender.js # Script adicional (por definir)
 │ └── login.js # Validación de login (formulario, alertas)
-│
+│```
 ├── index.html # Página principal de inicio de sesión
 └── README.md # Documentación del proyecto
 
