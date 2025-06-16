@@ -16,7 +16,7 @@ Durante el desarrollo de este aprendí a:
 ## 📁 Estructura del Proyecto
 ```plaintext
 LOGIN_BOOTSTRAP/
-│```plaintext
+│
 ├── CSS/
 │ └── estilos.css # Estilos personalizados (fondo degradado, tarjetas, etc.)
 │
